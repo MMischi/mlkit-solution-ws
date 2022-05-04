@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sample_1"
+        android:title="Sample Project 1 - Object Detector" />
+
+    <item
+        android:id="@+id/sample_2"
+        android:title="Sample Project 2 (extension to 1) - Which Plan?" />
+
+    <item
+        android:id="@+id/sample_3"
+        android:title="Sample Project 3 - Travel Translator" />
+
+    <item
+        android:id="@+id/sample_4"
+        android:title="Sample Project 4 - Barcode Scanner" />
+
+</menu>
