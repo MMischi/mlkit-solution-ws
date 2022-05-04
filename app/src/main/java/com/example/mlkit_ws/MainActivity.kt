@@ -11,7 +11,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 
 private var currFragment: Fragment = Sample_1()
-private var currTitle: String = "Sample-Project 1"
+private var currTitle: String = "Object Detector"
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
     override fun onCreate(savedInstanceState: Bundle?) {

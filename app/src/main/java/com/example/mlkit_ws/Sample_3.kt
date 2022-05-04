@@ -287,8 +287,8 @@ class Sample_3 : Fragment(), View.OnClickListener {
     // helper function: get
     private fun getSourceLanguage(lang: String): String {
         return when(lang) {
-            "el" -> TranslateLanguage.GREEK
-            "en" -> TranslateLanguage.ENGLISH
+            "fr" -> TranslateLanguage.FRENCH
+            "it" -> TranslateLanguage.ITALIAN
             "de" -> TranslateLanguage.GERMAN
             else -> "undefined"     // cannot occur, this case has already been prevented. when,
                                     //  however, asks for a default case
